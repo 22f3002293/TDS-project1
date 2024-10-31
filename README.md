@@ -6,6 +6,7 @@
 - The information was saved in CSV files for easy analysis.
 - We cleaned the data by standardizing company names—removing extra spaces, symbols like "@", and making everything uppercase for consistency.
 - We focused on users in Zurich with over 50 followers to make sure the dataset was big enough for useful insights.
+- I have added main.py file that i used to extract the data. If someone use to use it in future, you just have to add the token in that
 
 ## The Most Interesting and Surprising Fact i Found After Analyzing the Data
 1. **Popularity and Repository Count**: Developers who create more public repositories usually have more followers. Each additional repository adds, on average, around 1.5 followers.
