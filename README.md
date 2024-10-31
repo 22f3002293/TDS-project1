@@ -1,13 +1,13 @@
 # GitHub Users Analysis
 
-## An Explanation of How You Scraped the Data
+## An Explanation of How i Scraped the Data
 - The data for this project was collected using the GitHub API, which gave us access to information about users and their repositories.
 - We used Python scripts to get data from the API and processed it to extract user profiles, repository details, and activity.
 - The information was saved in CSV files for easy analysis.
 - We cleaned the data by standardizing company names—removing extra spaces, symbols like "@", and making everything uppercase for consistency.
 - We focused on users in Zurich with over 50 followers to make sure the dataset was big enough for useful insights.
 
-## The Most Interesting and Surprising Fact You Found After Analyzing the Data
+## The Most Interesting and Surprising Fact i Found After Analyzing the Data
 1. **Popularity and Repository Count**: Developers who create more public repositories usually have more followers. Each additional repository adds, on average, around 1.5 followers.
 
 2. **Company Affiliation**: Most developers in Zurich work for Google. It seems Google has many talented developers in Zurich who are active on GitHub.
@@ -24,7 +24,7 @@
 
 8. **Leader Strength**: We defined "leader strength" as followers divided by (1 + following). Top users are those with more followers than people they follow, showing they are key figures who provide valuable work.
 
-## An Actionable Recommendation for Developers Based on Your Analysis
+## An Actionable Recommendation for Developers Based on my Analysis
 - To grow their following, developers should be more active by creating and sharing public repositories. Contributing more projects shows skills and attracts attention from others.
 - Turning on collaboration features like "projects" and "wikis" can boost engagement by making it easier for others to contribute and understand the work.
 - Sharing contact details, like an email address, can make a developer more visible to collaborators or employers.
